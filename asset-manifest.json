@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gomri15.github.io/static/css/main.b8765e77.chunk.css",
-    "main.js": "/gomri15.github.io/static/js/main.41f50672.chunk.js",
-    "main.js.map": "/gomri15.github.io/static/js/main.41f50672.chunk.js.map",
-    "runtime-main.js": "/gomri15.github.io/static/js/runtime-main.97cc5206.js",
-    "runtime-main.js.map": "/gomri15.github.io/static/js/runtime-main.97cc5206.js.map",
-    "static/js/2.fecac87a.chunk.js": "/gomri15.github.io/static/js/2.fecac87a.chunk.js",
-    "static/js/2.fecac87a.chunk.js.map": "/gomri15.github.io/static/js/2.fecac87a.chunk.js.map",
-    "index.html": "/gomri15.github.io/index.html",
-    "precache-manifest.9c7f7d47aeeec093964ff4e5886b76c5.js": "/gomri15.github.io/precache-manifest.9c7f7d47aeeec093964ff4e5886b76c5.js",
-    "service-worker.js": "/gomri15.github.io/service-worker.js",
-    "static/css/main.b8765e77.chunk.css.map": "/gomri15.github.io/static/css/main.b8765e77.chunk.css.map"
+    "main.css": "/react-tutorial/static/css/main.b8765e77.chunk.css",
+    "main.js": "/react-tutorial/static/js/main.41f50672.chunk.js",
+    "main.js.map": "/react-tutorial/static/js/main.41f50672.chunk.js.map",
+    "runtime-main.js": "/react-tutorial/static/js/runtime-main.3d34ec72.js",
+    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.3d34ec72.js.map",
+    "static/js/2.fecac87a.chunk.js": "/react-tutorial/static/js/2.fecac87a.chunk.js",
+    "static/js/2.fecac87a.chunk.js.map": "/react-tutorial/static/js/2.fecac87a.chunk.js.map",
+    "index.html": "/react-tutorial/index.html",
+    "precache-manifest.4756583d04c8226b3df54ded2c3ba3e1.js": "/react-tutorial/precache-manifest.4756583d04c8226b3df54ded2c3ba3e1.js",
+    "service-worker.js": "/react-tutorial/service-worker.js",
+    "static/css/main.b8765e77.chunk.css.map": "/react-tutorial/static/css/main.b8765e77.chunk.css.map"
   }
 }
